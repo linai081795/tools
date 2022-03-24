@@ -410,7 +410,7 @@ $(function () {
                     showQuestion();
                 }
             }
-        }, 1000);
+        }, 10);
     }
 
     function toTimeStr(tt) {
